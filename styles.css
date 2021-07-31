@@ -1,0 +1,14 @@
+body{
+    margin:auto 0;
+}
+.main-nav{
+    display: flex;
+    list-style: none;
+    font-size: 1em;   
+}
+li{
+    padding: 20px;
+}
+.push{
+    margin-left: auto;
+}
